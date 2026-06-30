@@ -30,8 +30,17 @@ h1{
   justify-content: center;
 }
 .campus-card{
-  width: 300px;
+  width: 224px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+.img-tag{
+  height : 217px;
+  width : 224px;
+}
+p{
+  font-family: "Plus Jakarta Sans";
+  padding-left: 10px;
+  font-weight : bold;
 }

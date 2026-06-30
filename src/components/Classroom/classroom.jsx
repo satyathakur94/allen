@@ -98,7 +98,7 @@ export default function Classroom() {
 function CampusDetails({ name, campus_count, state, display_url }) {
   return (
     <div className="campus-card">
-      <img src={display_url} alt={name} />
+      <img className="img-tag" src={display_url} alt={name} />
 
       <div>
         <p>{name}</p>
