@@ -1,0 +1,37 @@
+.classroom-div{
+   
+    min-height: 500px;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    display : flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.input-box{
+    height : 30px;
+    width: 300px;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans";
+}
+h1{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 25px;
+    padding : 10px;
+    color : rgb(0, 0, 0);
+}
+.campus-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.campus-card{
+  width: 300px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}

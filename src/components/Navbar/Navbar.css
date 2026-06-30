@@ -1,0 +1,45 @@
+.allen-logo{
+    width : 100px;
+    height : 100px;
+    cursor: pointer;
+}
+.login-button{
+    height: 40px;
+    width: 70px;
+    background-color:white;
+    border-width: 2px;
+    border-radius: 20px;
+    font-weight: 300;
+    border-color: #2196f380;
+}
+.login-button:hover {
+    background-color : #2196f380;
+    color : white;
+    border-color : white;
+}
+.phone-logo{
+    height: 40px;
+    width: 40px;
+}
+.outernavbar-div{
+    display: flex;
+    justify-content: space-between;
+    gap : 10px;
+    align-items: center;
+    padding-right: 110px;
+    padding-left: 110px; 
+    margin: 0px;
+}
+p{
+    font-family: "Plus Jakarta Sans";
+    cursor: pointer;
+}
+.inner-div{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 180px;
+    padding-left: 80px; 
+}
+.main-outer-div{
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}

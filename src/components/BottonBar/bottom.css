@@ -1,0 +1,22 @@
+.outerdiv{
+    background-color: #edf2fa;
+}
+.inner-div{
+    padding-top:30px;
+    padding-bottom:30px;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-family: "Plus Jakarta Sans";
+    font-size: 12px
+}
+h1{
+    font-size : 15px;
+     font-family: "Plus Jakarta Sans";
+}
+.titleinner-div{
+    display: flex;
+    flex-direction: column;
+    gap : 6px;
+}
